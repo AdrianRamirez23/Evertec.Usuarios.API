@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evertec.Usuarios.API", "Evertec.Usuarios.API\Evertec.Usuarios.API.csproj", "{13C6A3E0-BD4C-4515-895E-C2D0C5CFFB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evertec.Usuarios.Application", "Evertec.Usuarios.Application\Evertec.Usuarios.Application.csproj", "{6C3E143A-75C3-445A-9FCE-4C9FE4302A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evertec.Usuarios.Infraestructure", "Evertec.Usuarios.Infraestructure\Evertec.Usuarios.Infraestructure.csproj", "{65E4476F-1F53-4883-8127-68FDA7B89A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evertec.Usuario.Entities", "Evertec.Usuario.Entities\Evertec.Usuario.Entities.csproj", "{C615C82B-A37E-4F19-A853-65F6CFD4E525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evertec.Usuarios.Services", "Evertec.Usuarios.Services\Evertec.Usuarios.Services.csproj", "{F25BCB2F-26C6-4C6E-A2F3-271E10C3CDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C6A3E0-BD4C-4515-895E-C2D0C5CFFB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C6A3E0-BD4C-4515-895E-C2D0C5CFFB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C6A3E0-BD4C-4515-895E-C2D0C5CFFB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C6A3E0-BD4C-4515-895E-C2D0C5CFFB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3E143A-75C3-445A-9FCE-4C9FE4302A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3E143A-75C3-445A-9FCE-4C9FE4302A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3E143A-75C3-445A-9FCE-4C9FE4302A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3E143A-75C3-445A-9FCE-4C9FE4302A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E4476F-1F53-4883-8127-68FDA7B89A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E4476F-1F53-4883-8127-68FDA7B89A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E4476F-1F53-4883-8127-68FDA7B89A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E4476F-1F53-4883-8127-68FDA7B89A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C615C82B-A37E-4F19-A853-65F6CFD4E525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C615C82B-A37E-4F19-A853-65F6CFD4E525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C615C82B-A37E-4F19-A853-65F6CFD4E525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C615C82B-A37E-4F19-A853-65F6CFD4E525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25BCB2F-26C6-4C6E-A2F3-271E10C3CDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25BCB2F-26C6-4C6E-A2F3-271E10C3CDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25BCB2F-26C6-4C6E-A2F3-271E10C3CDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25BCB2F-26C6-4C6E-A2F3-271E10C3CDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F94D8C3-DB02-47AA-A42E-FECEF005FA61}
+	EndGlobalSection
+EndGlobal
